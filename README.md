@@ -1,2 +1,2 @@
 # Bias Variance Tradeoff
-Explanation of the Bias Variance Tradeoff in Machine Learning
+An explanation of the Bias Variance Tradeoff in Machine Learning → [PDF](Bias_Variance_Tradeoff.pdf)
